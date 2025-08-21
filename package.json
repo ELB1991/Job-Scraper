@@ -1,0 +1,9 @@
+{
+  "name": "job-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "jsdom": "^24.0.0",
+    "@mozilla/readability": "^0.5.0"
+  }
+}
